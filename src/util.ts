@@ -1,4 +1,4 @@
-const merge = require('lodash/merge');
+import merge from 'lodash-es/merge';
 
 
 /* tslint:disable */
